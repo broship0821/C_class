@@ -27,5 +27,8 @@
     <ClCompile Include="ch04_variable.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="ch04-Quiz_variable.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

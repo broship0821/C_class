@@ -195,39 +195,16 @@ sizeof()
 //    char nl = '\n'; //엔터값
 //    printf("nl: %d, %c!!\n", nl, nl);
 //}
-
-int main() {
-    int dataA = 123;
-    printf("%d\n", dataA);
-    printf("%5d!!\n", dataA); //5만큼 공간확보하고 우측정렬
-    printf("%-5d!!\n", dataA); //5만큼 공간확보하고 좌측정렬
-    printf("%10s\n", "korea");
-    printf("\n");
-
-    double dataB = 12.39;
-    printf("%.1f\n", dataB); //%.숫자: 실수값을 숫자자리까지만 출력, 짤리면 반올림처리
-    printf("%5.1f\n", dataB); // 5칸 확보하고 소수점 1자리만 표시
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+//
+//int main() {
+//    int dataA = 123;
+//    printf("%d\n", dataA);
+//    printf("%5d!!\n", dataA); //5만큼 공간확보하고 우측정렬
+//    printf("%-5d!!\n", dataA); //5만큼 공간확보하고 좌측정렬
+//    printf("%10s\n", "korea");
+//    printf("\n");
+//
+//    double dataB = 12.39;
+//    printf("%.1f\n", dataB); //%.숫자: 실수값을 숫자자리까지만 출력, 짤리면 반올림처리
+//    printf("%5.1f\n", dataB); // 5칸 확보하고 소수점 1자리만 표시
+//}

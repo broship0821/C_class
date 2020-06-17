@@ -147,6 +147,7 @@
     <ClCompile Include="ch03_format-specifier.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="ch04-Quiz_variable.c" />
     <ClCompile Include="ch04_variable.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
