@@ -1,0 +1,25 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-Debug",
+      "appliesTo": "Debug/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-Debug",
+      "appliesTo": "Debug/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-ch04-Quiz_variable",
+      "appliesTo": "ch04-Quiz_variable.c",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-M6_C-work",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}

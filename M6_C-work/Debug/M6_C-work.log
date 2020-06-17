@@ -1,0 +1,5 @@
+﻿  ch04_variable.c
+D:\_6월 평일\M6_WD_09T_C-lang\M6_C-work\ch04_variable.c(76,17): warning C4101: 'v3' :참조되지 않은 지역 변수입니다.
+D:\_6월 평일\M6_WD_09T_C-lang\M6_C-work\ch04_variable.c(76,13): warning C4101: 'v2' :참조되지 않은 지역 변수입니다.
+D:\_6월 평일\M6_WD_09T_C-lang\M6_C-work\ch04_variable.c(76,9): warning C4101: 'v1' :참조되지 않은 지역 변수입니다.
+  M6_C-work.vcxproj -> D:\_6월 평일\M6_WD_09T_C-lang\M6_C-work\Debug\M6_C-work.exe
