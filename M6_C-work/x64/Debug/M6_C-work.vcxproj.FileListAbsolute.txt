@@ -1,2 +1,4 @@
 C:\Users\PeterJeon\Desktop\Programing\C\M6_C-work\x64\Debug\M6_C-work.exe
 C:\Users\PeterJeon\Desktop\Programing\C\M6_C-work\x64\Debug\M6_C-work.pdb
+D:\c 전형배\M6_C-work\x64\Debug\M6_C-work.exe
+D:\c 전형배\M6_C-work\x64\Debug\M6_C-work.pdb
