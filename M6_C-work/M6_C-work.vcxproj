@@ -150,7 +150,8 @@
     <ClCompile Include="ch04-Quiz_variable.c" />
     <ClCompile Include="ch04_variable.c" />
     <ClCompile Include="ch06_operator.c" />
-    <ClCompile Include="ch07_scanf1.c" />
+    <ClCompile Include="ch07_Quiz_scanf.c" />
+    <ClCompile Include="ch07_scanf.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

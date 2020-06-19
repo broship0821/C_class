@@ -33,7 +33,10 @@
     <ClCompile Include="ch06_operator.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="ch07_scanf1.c">
+    <ClCompile Include="ch07_scanf.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ch07_Quiz_scanf.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
