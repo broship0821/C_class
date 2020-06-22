@@ -152,6 +152,10 @@
     <ClCompile Include="ch06_operator.c" />
     <ClCompile Include="ch07_Quiz_scanf.c" />
     <ClCompile Include="ch07_scanf.c" />
+    <ClCompile Include="ch08-quiz_if.c" />
+    <ClCompile Include="ch08_if.c" />
+    <ClCompile Include="ch09-quiz_if_else.c" />
+    <ClCompile Include="ch09_if_else.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

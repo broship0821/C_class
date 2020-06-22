@@ -39,5 +39,17 @@
     <ClCompile Include="ch07_Quiz_scanf.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="ch08_if.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ch08-quiz_if.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ch09_if_else.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ch09-quiz_if_else.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
