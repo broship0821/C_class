@@ -156,6 +156,10 @@
     <ClCompile Include="ch08_if.c" />
     <ClCompile Include="ch09-quiz_if_else.c" />
     <ClCompile Include="ch09_if_else.c" />
+    <ClCompile Include="ch10-Quiz_nested_if.c" />
+    <ClCompile Include="ch10_nested_if.c" />
+    <ClCompile Include="ch11-Quiz_if_else if.c" />
+    <ClCompile Include="ch11_if_else if.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
