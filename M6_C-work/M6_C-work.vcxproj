@@ -138,6 +138,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="ch00_practice.c" />
     <ClCompile Include="ch01_basic.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
@@ -160,6 +161,8 @@
     <ClCompile Include="ch10_nested_if.c" />
     <ClCompile Include="ch11-Quiz_if_else if.c" />
     <ClCompile Include="ch11_if_else if.c" />
+    <ClCompile Include="ch12-Quiz_switch.c" />
+    <ClCompile Include="ch12_switch.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

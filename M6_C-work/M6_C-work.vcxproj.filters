@@ -63,5 +63,14 @@
     <ClCompile Include="ch11-Quiz_if_else if.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="ch12_switch.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ch12-Quiz_switch.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ch00_practice.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
