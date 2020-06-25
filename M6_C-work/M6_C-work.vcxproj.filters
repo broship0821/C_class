@@ -72,5 +72,14 @@
     <ClCompile Include="ch00_practice.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="ch13_for.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ch13-Quiz_for.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ch14_while.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

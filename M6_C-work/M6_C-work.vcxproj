@@ -163,6 +163,9 @@
     <ClCompile Include="ch11_if_else if.c" />
     <ClCompile Include="ch12-Quiz_switch.c" />
     <ClCompile Include="ch12_switch.c" />
+    <ClCompile Include="ch13-Quiz_for.c" />
+    <ClCompile Include="ch13_for.c" />
+    <ClCompile Include="ch14_while.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
