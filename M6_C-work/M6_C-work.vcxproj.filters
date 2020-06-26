@@ -81,5 +81,11 @@
     <ClCompile Include="ch14_while.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="ch14-Quiz_while.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ch15_control_etc.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
