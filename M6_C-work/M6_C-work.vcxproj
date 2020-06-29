@@ -167,7 +167,10 @@
     <ClCompile Include="ch13_for.c" />
     <ClCompile Include="ch14-Quiz_while.c" />
     <ClCompile Include="ch14_while.c" />
+    <ClCompile Include="ch15-Quiz_VendingMachine.c" />
     <ClCompile Include="ch15_control_etc.c" />
+    <ClCompile Include="ch15_control_star.c" />
+    <ClCompile Include="ch16_array.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

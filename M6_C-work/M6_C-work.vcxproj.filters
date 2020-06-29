@@ -87,5 +87,14 @@
     <ClCompile Include="ch15_control_etc.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="ch15_control_star.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ch15-Quiz_VendingMachine.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ch16_array.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
